@@ -324,16 +324,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Material1718_baseColor.jpeg"
+      "uri": "https://raw.githubusercontent.com/hadiyawalasohel/gltfdemo/main/Material1718_baseColor.jpeg"
     },
     {
-      "uri": "textures/Material1722_baseColor.jpeg"
+      "uri": "https://raw.githubusercontent.com/hadiyawalasohel/gltfdemo/main/Material1722_baseColor.jpeg"
     },
     {
-      "uri": "textures/Material1724_baseColor.jpeg"
+      "uri": "https://raw.githubusercontent.com/hadiyawalasohel/gltfdemo/main/Material1724_baseColor.jpeg"
     },
     {
-      "uri": "textures/Infinite_Light_1_baseColor.jpeg"
+      "uri": "https://raw.githubusercontent.com/hadiyawalasohel/gltfdemo/main/Infinite_Light_1_baseColor.jpeg"
     }
   ],
   "materials": [
